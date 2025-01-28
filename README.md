@@ -1,2 +1,3 @@
-# aws_cloudfront_url_redirector
-A simple url redirector using AWS CloudFront, ACM and Route 53 provisioned with Terraform
+# Demonstration of an AWS CloudFront based URL Redirector
+
+A very simple url redirector using AWS CloudFront Deployment (CFD), CloudFront Function (CFF), ACM wildcard certificate, and Route 53 records all provisioned with Terraform.
